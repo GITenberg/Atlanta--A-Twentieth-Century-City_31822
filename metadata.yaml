@@ -1,0 +1,27 @@
+_repo: Atlanta--A-Twentieth-Century-City_31822
+_version: 0.1.0
+alternative_title: 'Atlanta: A 20th-Century City'
+covers:
+- cover_type: archival
+  image_path: 31822-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Atlanta Chamber of Commerce
+    alias: Commerce, Atlanta Chamber of
+    gutenberg_agent_id: '35502'
+    url: http://www.gutenberg.org/2009/agents/35502
+description: ''
+gutenberg_issued: '2010-03-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31822'
+  lccn: tmp92006715
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Atlanta (Ga.) -- Description and travel'
+- !lcc 'F206'
+title: 'Atlanta: A Twentieth-Century City'
+url: http://www.gutenberg.org/ebooks/31822
